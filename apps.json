@@ -54,8 +54,6 @@
     "allow_emulator":false,
     "storage": [
       {"name":"clock.app.js","url":"clock.app.js"},
-      {"name":"time.face.js","url":"time.face.js"},
-      {"name":"call.face.js","url":"call.face.js"},
       {"name":"clock.img","url":"clock-icon.js","evaluate":true }
     ]
   },
