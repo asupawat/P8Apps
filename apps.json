@@ -13,7 +13,8 @@
       {"name":"accel.js","url":"accel.js"},
       {"name":"prompt.js","url":"prompt.js"},
       {"name":"menu.js","url":"menu.js"},
-      {"name":"widgets.js","url":"widgets.js"}
+      {"name":"widgets.js","url":"widgets.js"},
+      {"name":"mqtt.js","url":"mqtt.js"}
     ],
     "sortorder" : -10
   },
@@ -46,19 +47,17 @@
   { "id": "clock",
     "name": "Clock",
     "icon": "clock.png",
-    "version":"0.03",
+    "version":"0.04",
     "description": "Clock with multiple faces - Big, Analogue, Digital, Text.\n Switch between faces by swipe left/right",
     "tags": "clock",
     "type":"clock",
     "allow_emulator":false,
     "storage": [
       {"name":"clock.app.js","url":"clock.app.js"},
-      {"name":"nclock.app.js","url":"nclock.app.js"},
       {"name":"big.face.js","url":"big.face.js"},
-      {"name":"ana.face.js","url":"ana.face.js"},
-      {"name":"digi.face.js","url":"digi.face.js"},
-      {"name":"txt.face.js","url":"txt.face.js"},
-      {"name":"dk.face.js","url":"dk.face.js"},
+      {"name":"call.face.js","url":"ana.face.js"},
+      {"name":"nurse.png","url":"nurse.png"},
+      {"name":"call.png","url":"call.png"},
       {"name":"clock.img","url":"clock-icon.js","evaluate":true }
     ]
   },
