@@ -55,10 +55,10 @@
     "storage": [
       {"name":"clock.app.js","url":"clock.app.js"},
       {"name":"nclock.app.js","url":"nclock.app.js"},
-      {"name":"big.face.js","url":"big.face.js"},
-      {"name":"ana.face.js","url":"ana.face.js"},
-      {"name":"digi.face.js","url":"digi.face.js"},
-      {"name":"txt.face.js","url":"txt.face.js"},
+      {"name":"time.face.js","url":"time.face.js"},
+      {"name":"call.face.js","url":"call.face.js"},
+      {"name":"nurse.img","url":"nurse.img"},
+      {"name":"call.img","url":"call.img"},
       {"name":"clock.img","url":"clock-icon.js","evaluate":true }
     ]
   },
