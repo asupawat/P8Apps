@@ -113,5 +113,5 @@ P8.ticker = setInterval(P8.tick,1000);
 P8.POWER=D19.read();
 watchBat()
 if (STOR.read("alarm.boot.js")) eval(STOR.read("alarm.boot.js"));
-
+if (STOR.read("mqtt.js")) eval(STOR.read("mqtt.js"));
 
