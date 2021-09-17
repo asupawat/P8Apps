@@ -55,9 +55,9 @@
     "storage": [
       {"name":"clock.app.js","url":"clock.app.js"},
       {"name":"big.face.js","url":"big.face.js"},
-      {"name":"call.face.js","url":"ana.face.js"},
-      {"name":"nurse.png","url":"nurse.png"},
-      {"name":"call.png","url":"call.png"},
+      {"name":"call.face.js","url":"call.face.js"},
+      {"name":"nurse.img","url":"nurse-img.js"},
+      {"name":"call.img","url":"call-img.js"},
       {"name":"clock.img","url":"clock-icon.js","evaluate":true }
     ]
   },
