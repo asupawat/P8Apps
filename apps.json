@@ -58,7 +58,7 @@
       {"name":"call.face.js","url":"call.face.js"},
       {"name":"nurse.img","url":"nurse.img"},
       {"name":"call.img","url":"call.img"},
-      {"name":"clock.img","url":"clock-icon.js","evaluate":true }
+      {"name":"clock-icon.js","url":"clock-icon.js"}
     ]
   },
   { "id": "life",
