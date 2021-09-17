@@ -49,8 +49,8 @@
     "icon": "icon.png",
     "version":"0.24",
     "description": "Main Clock/notifications face",
-    "tags": "apps",
-    "type":"main",
+    "tags": "clock",
+    "type":"clock",
     "storage": [
       {"name":"main","url":"main.js"}
     ]
