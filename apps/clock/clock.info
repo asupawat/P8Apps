@@ -1,1 +1,1 @@
-{"id":"clock","name":"Clock","type":"clock","src":"clock.app.js","icon":"clock.img","version":"0.04","files":"clock.info,clock.app.js,big.face.js,ana.face.js"}
+{"id":"clock","name":"Clock","type":"clock","src":"clock.app.js","icon":"clock.img","version":"0.04","files":"clock.info,clock.app.js,big.face.js,ana.face.js,mqtt.js"}
