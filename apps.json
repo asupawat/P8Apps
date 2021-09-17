@@ -59,7 +59,6 @@
       {"name":"ana.face.js","url":"ana.face.js"},
       {"name":"digi.face.js","url":"digi.face.js"},
       {"name":"txt.face.js","url":"txt.face.js"},
-      {"name":"dk.face.js","url":"dk.face.js"},
       {"name":"clock.img","url":"clock-icon.js","evaluate":true }
     ]
   },
