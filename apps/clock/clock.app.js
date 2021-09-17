@@ -84,7 +84,7 @@ mqtt.on("ACK", function(msg){
   g.clear();
   g.setColor("#290"); g.fillCircle(120,110,95);
   if(msg.message == "nurse") {
-    g.drawImage(require("Storage").read("nurse-img.js"),55,17);
+    g.drawImage(require("Storage").read("nurse.img"),55,17);
   }
 });
 
