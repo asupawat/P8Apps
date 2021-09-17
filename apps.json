@@ -44,20 +44,15 @@
     ],
     "sortorder" : -2
   },
-  { "id": "clock",
+  { "id": "main",
     "name": "Clock",
-    "icon": "clock.png",
-    "version":"0.04",
-    "description": "Clock with multiple faces - Big, Analogue, Digital, Text.\n Switch between faces by swipe left/right",
-    "tags": "clock",
-    "type":"clock",
-    "allow_emulator":false,
+    "icon": "icon.png",
+    "version":"0.24",
+    "description": "Main Clock/notifications face",
+    "tags": "apps",
+    "type":"main",
     "storage": [
-      {"name":"clock.app.js","url":"clock.app.js"},
-      {"name":"nclock.app.js","url":"nclock.app.js"},
-      {"name":"time.face.js","url":"time.face.js"},
-      {"name":"call.face.js","url":"call.face.js"},
-      {"name":"clock.img","url":"clock-icon.js","evaluate":true }
+      {"name":"main","url":"main.js"}
     ]
   },
   { "id": "life",
