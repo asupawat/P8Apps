@@ -53,7 +53,7 @@
     "type":"clock",
     "storage": [
       {"name":"main","url":"main.js"},
-      {"name":"clock.img","url":"clock-icon.js","evaluate":true }
+      {"name":"main.img","url":"main-icon.js","evaluate":true }
     ]
   },
   { "id": "life",
