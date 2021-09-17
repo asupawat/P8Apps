@@ -113,17 +113,6 @@ NRF.setTxPower(4);
 
 // ===============================================
 
-// Answer call/help
-mqtt.on("ACK", function(msg){
-  g.clear();
-  g.setColor("#290"); g.fillCircle(120,110,95);
-  if(msg.message == "nurse") {
-    g.drawImage(require("Storage").read("nurse.png"),55,17);
-  }
-});
-
-// ===============================================
-
 mqtt.on("connected", function(msg){
   console.log("MQTT: connected to", msg.bridge);
 });
